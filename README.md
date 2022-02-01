@@ -1,7 +1,7 @@
 ## You've reached my GitHub!
 * 👾 Studying Math and CS at the University of Illinois
 * 🚀 Interested in writing code/working on anything related to space 
-*   I
+  *   I
 * 📜 I enjoy looking at obscure datasets and finding useless patterns in them
 
 <!--
