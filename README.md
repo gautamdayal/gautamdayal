@@ -7,6 +7,8 @@
   * Here's [some code I wrote](https://github.com/gautamdayal/wikipedia-graphs) that crawls wikipedia and makes subgraphs of the site
 * 👾 Studying Math and CS at the University of Illinois
   * I watched a Numberphile video on Julia Sets and tried making a little JS [visualizer](https://gautamdayal.github.io/complex-numbers/)
+* 📊 I also like making cool graphs
+  * Here's one about [Donald Trump's mentions in hip-hop songs](https://github.com/gautamdayal/fivethirtyeight-fork/blob/master/trump-rap/barplot_better.png) colored by sentiment. 
 
 <!--
 **gautamdayal/gautamdayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
