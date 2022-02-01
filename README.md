@@ -3,7 +3,7 @@
 * 🚀 Interested in writing code/working on anything related to space 
   * I write simulation code + flight software for the [Illinois Space Society](https://github.com/ISSUIUC) 
 * 📜 I enjoy looking at obscure datasets and finding useless patterns in them
-  * Here's [some code I wrote](/wikipedia-graphs) that crawls wikipedia and makes subgraphs of the site
+  * Here's [some code I wrote](/gautamdayal/wikipedia-graphs) that crawls wikipedia and makes subgraphs of the site
 
 <!--
 **gautamdayal/gautamdayal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
