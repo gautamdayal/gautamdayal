@@ -1,4 +1,4 @@
-## You've reached my GitHub!
+## hey what's up hello
 
 * 🪐 Interested in writing code/working on anything related to space and climate science
   * I write simulation code + flight software for the [Illinois Space Society](https://github.com/ISSUIUC) 
