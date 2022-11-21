@@ -11,10 +11,6 @@
 * 👾 Studying Math and CS at the University of Illinois
   * I watched a Numberphile video on Julia Sets and tried making a little JS [visualizer](https://gautamdayal.github.io/complex-numbers/)
 
-
-
-<!-- [![check da statistacs](https://github-readme-stats.vercel.app/api?username=gautamdayal&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamdayal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gautam's github stats" /> |
+## check the statistacs
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gautamdayal&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gautam's github stats" /> 
 
