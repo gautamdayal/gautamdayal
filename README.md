@@ -10,3 +10,6 @@
   * Here's one about [Donald Trump's mentions in hip-hop songs](https://github.com/gautamdayal/fivethirtyeight-fork/blob/master/trump-rap/barplot_better.png) colored by sentiment. 
 * 👾 Studying Math and CS at the University of Illinois
   * I watched a Numberphile video on Julia Sets and tried making a little JS [visualizer](https://gautamdayal.github.io/complex-numbers/)
+
+
+[![Our GitHub stats](https://github-readme-stats.vercel.app/api?username=gautamdayal)](https://github.com/anuraghazra/github-readme-stats)
