@@ -12,5 +12,4 @@
   * I watched a Numberphile video on Julia Sets and tried making a little JS [visualizer](https://gautamdayal.github.io/complex-numbers/)
 
 
-[![check da statistacs](https://github-readme-stats.vercel.app/api?username=gautamdayal)](https://github.com/anuraghazra/github-readme-stats)
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamdayal)](https://github.com/anuraghazra/github-readme-stats)
+[![check da statistacs](https://github-readme-stats.vercel.app/api?username=gautamdayal&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
