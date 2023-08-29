@@ -4,6 +4,8 @@
   * I write simulation code + flight software for the [Illinois Space Society](https://github.com/ISSUIUC) 
     * I've spent plenty of hours improving and adding to our [Flight Software.](https://github.com/ISSUIUC/TARS-Software)  
   * Here's a simple [natural selection sim](https://gautamdayal.github.io/natural-selection/) I wrote a few years ago
+* 🤖 Interested in autonomy
+  * Part of the Bretl Research Group @ UIUC, working on robotic gripper arms 
 * 📜 I enjoy looking at obscure datasets and finding useless patterns in them
   * Here's [some code I wrote](https://github.com/gautamdayal/wikipedia-graphs) that crawls wikipedia and makes subgraphs of the site
 * 📊 I also like making cool graphs
