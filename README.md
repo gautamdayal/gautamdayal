@@ -1,6 +1,6 @@
 ## hey what's up hello
 
-* 🪐 Interested in writing code/working on anything related to space and climate science
+* 🪐 Interested in writing code/working on anything related to robotics, algorithms, space, climate science, and social computing
   * I write simulation code + flight software for the [Illinois Space Society](https://github.com/ISSUIUC) 
     * I've spent plenty of hours improving and adding to our [Flight Software.](https://github.com/ISSUIUC/TARS-Software)  
 * 🤖 Interested in autonomy
